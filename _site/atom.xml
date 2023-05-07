@@ -4,7 +4,7 @@
  <title>ChocoJaem.log</title>
  <link href="/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2023-05-08T00:12:58+09:00</updated>
+ <updated>2023-05-08T00:22:28+09:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>Jaem</name>
@@ -18,6 +18,17 @@
    <updated>2023-05-07T00:00:00+09:00</updated>
    <id>http://localhost:4000/2023/05/07/about_me</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;https://capsule-render.vercel.app/api?type=waving&amp;amp;fontAlignY=30&amp;amp;descAlignY=50&amp;amp;text=Choco%20Jaem&amp;amp;height=300&amp;amp;color=404040&amp;amp;fontColor=ffffff&quot; alt=&quot;header&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;-basic-info-&quot;&gt;📍 Basic Info 📍&lt;/h1&gt;
+
+&lt;h3 id=&quot;name&quot;&gt;Name&lt;/h3&gt;
+&lt;p&gt;이재민&lt;/p&gt;
+
+&lt;h3 id=&quot;education&quot;&gt;Education&lt;/h3&gt;
+&lt;p&gt;Dankook Univ. Software Engineering ‘19&lt;/p&gt;
+
+&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
+&lt;p&gt;안녕하세요 저는 앱 개발에 관심이 많은 소프트웨어학과 19학번 이재민이라고 합니다!!&lt;/p&gt;
 
 &lt;h1 id=&quot;-career-&quot;&gt;🏆 Career 🏆&lt;/h1&gt;
 
