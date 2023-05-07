@@ -33,16 +33,17 @@ sass:
 # Specify the author for blog posts
 author:
   name: Jaem
-  url: https://www.instagram.com/
+  url: https://www.instagram.com/cinnamon_jaem/
   email: vanillajaem@gmail.com
 
 # Custom vars
 version: 3.0.0
 
 # Navbar page list
-nav:
-  - title: Blog
-    url: /archive
 
-  - title: About
-    url: /about
+#nav:
+#  - title: Blog
+#    url: /archive
+#
+#  - title: About
+#    url: /about
